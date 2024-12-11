@@ -4,3 +4,5 @@
 3. 2016 president is motivated by https://gist.github.com/glamp
 4. A naive forecast for Covid done in 2020 
 5. Liuyao 
+6. Paper reading note
+
